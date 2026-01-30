@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=DevelopedCountry
+comment1.params=code\ name\ gdp\ innovation\ happynessScore
+comment1.target=DevelopedCountry(java.lang.String,\ java.lang.String,\ double,\ double,\ double)
+comment2.params=n
+comment2.target=void\ education(double)
+comment3.params=n
+comment3.target=void\ publicServices(double)
+comment4.params=n
+comment4.target=void\ exportTechnology(double)
+comment5.params=
+comment5.target=double\ getInnovation()
+comment6.params=
+comment6.target=double\ getHappynessScore()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

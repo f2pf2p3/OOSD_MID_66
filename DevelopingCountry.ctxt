@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=DevelopingCountry
+comment1.params=code\ name\ gdp\ pollution\ corruption
+comment1.target=DevelopingCountry(java.lang.String,\ java.lang.String,\ double,\ double,\ double)
+comment2.params=n
+comment2.target=void\ factoryBase(double)
+comment3.params=n
+comment3.target=void\ importTechnology(double)
+comment4.params=n
+comment4.target=void\ governmentProjects(double)
+comment5.params=
+comment5.target=double\ getPollution()
+comment6.params=
+comment6.target=double\ getCorruption()
+comment7.params=n
+comment7.target=void\ setCorruption(double)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CorruptedCountry
+comment1.params=code\ name\ gdp\ pollution\ corruption
+comment1.target=CorruptedCountry(java.lang.String,\ java.lang.String,\ double,\ double,\ double)
+comment2.params=n
+comment2.target=void\ secretBudget(double)
+numComments=3
